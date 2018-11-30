@@ -30,8 +30,14 @@
 ניצור מאגר ריק בשרת
 למאגר זה נדחוף בהמשך את הקוד שלנו
 
-![new repo](https://github.com/yair-go/gitExampleVS/blob/master/pic/1%20%20Create%20Remote%20Repo/create%20repo.PNG)
+![new Repo](https://github.com/yair-go/gitExampleVS/blob/master/pic/1%20%20Create%20Remote%20Repo/new%20Repo.png)
 
+![new Repo](https://github.com/yair-go/gitExampleVS/blob/master/pic/1%20%20Create%20Remote%20Repo/create%20repo.PNG)
+
+
+בשלב הזה נעתיק ללוח את הכתובת של המאגר המרוחק
+
+![copy address](https://github.com/yair-go/gitExampleVS/blob/master/pic/1%20%20Create%20Remote%20Repo/copy%20adress.png)
 
 ## 2 יצירת מאגר מקומי
 
@@ -46,7 +52,9 @@ Add to Source Control
 ## 3 פרסום המאגר המקומי
 
 כאשר אנחנו רוצים לפרסם את המאגר המקומי לשרת
+
 *הערה : מומלץ לעשות זאת בעת יצירת הפרוייקט*
+
 Team Explorer לטאב של  Solution  Explorer נעבור בחלונית 
 
 ![Team Explorer](https://github.com/yair-go/gitExampleVS/blob/master/pic/3%20Sync%20and%20Publish/2.png)
@@ -59,10 +67,42 @@ Team Explorer לטאב של  Solution  Explorer נעבור בחלונית
 
 ![publish1](https://github.com/yair-go/gitExampleVS/blob/master/pic/3%20Sync%20and%20Publish/publish1.PNG)
 
+Publish נדביק את הכתובת של המאגר המרוחק בשרת ונלחץ על 
+
 ![publish2](https://github.com/yair-go/gitExampleVS/blob/master/pic/3%20Sync%20and%20Publish/publish2.PNG)
+
+
+יכול להיות שנקבל מסך שמבקש את שם המשתמש והסיסמא לאתר
+
+![login github](https://github.com/yair-go/gitExampleVS/blob/master/pic/3%20Sync%20and%20Publish/login%20github.PNG)
+
 
 ## 4 שמירת שינויים
 
+במהלך העבודה
+
 ## 5 עבודה משותפת
+
+במידה ולא בחרנו ליצור מאגר פרטי, כל אחד (אפילו ללא רישום) יכול לראות את המאגר שלנו
+אבל רק הבעלים של המאגר יכול להוסיף ולשנות
+אם רוצים לאפשר עבודה משותפת על אותו מאגר, נוסיף הרשאות גישה לשותפים
+
+setting נבחר בלשונית  
+
+![setting](https://github.com/yair-go/gitExampleVS/blob/master/pic/5%20Collaboration/setting.PNG)
+
+collaborators בתפריט נבחר
+
+![Collaborarors1](https://github.com/yair-go/gitExampleVS/blob/master/pic/5%20Collaboration/Collaborarors1.PNG)
+
+Add collaborator נחפש את שם המשתמש של השותף ונלחץ
+
+![Collaborarors2](https://github.com/yair-go/gitExampleVS/blob/master/pic/5%20Collaboration/Collaborarors2.PNG)
+
+
+עכשיו השותף יכול לשכפל את המאגר לעותק מקומי אצלו ולסנכרן את השינויים עם המאגר המרוחק
+
+## 6 שכפול מאגר
+
 
 > Written with [StackEdit](https://stackedit.io/).
