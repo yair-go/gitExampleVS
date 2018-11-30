@@ -104,7 +104,13 @@ Add collaborator נחפש את שם המשתמש של השותף ונלחץ
 
 ## 6 שכפול מאגר
 
+![Clone github](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/clone%20on%20github.png)
 
+![connect](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/connection.png)
+
+![colne VS](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/clone%20on%20github.png)
+
+## סיכום
 
 [Issues](https://github.com/yair-go/gitExampleVS/issues) לתגובות ניתן להשאיר בחלק  ה
 
