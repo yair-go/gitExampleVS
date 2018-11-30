@@ -108,7 +108,7 @@ Add collaborator נחפש את שם המשתמש של השותף ונלחץ
 
 ![connect](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/connection.png)
 
-![colne VS](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/clone%20on%20github.png)
+![colne VS](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/clone%20on%20VS.png)
 
 ## סיכום
 
