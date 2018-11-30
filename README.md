@@ -105,4 +105,7 @@ Add collaborator נחפש את שם המשתמש של השותף ונלחץ
 ## 6 שכפול מאגר
 
 
+
+[Issues](https://github.com/yair-go/gitExampleVS/issues) לתגובות ניתן להשאיר בחלק  ה
+
 > Written with [StackEdit](https://stackedit.io/).
