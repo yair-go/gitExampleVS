@@ -79,7 +79,9 @@ Publish נדביק את הכתובת של המאגר המרוחק בשרת ונ�
 
 ## 4 שמירת שינויים
 
-במהלך העבודה
+במהלך העבודה, נרצה לשמור שינויים בפרוייקט גם במאגרים שמנהלים את ניהול הגרסאות
+Team Explorer נחזור לחלונית  
+ונבחר לבצע סנכרון
 
 ## 5 עבודה משותפת
 
@@ -87,31 +89,40 @@ Publish נדביק את הכתובת של המאגר המרוחק בשרת ונ�
 אבל רק הבעלים של המאגר יכול להוסיף ולשנות
 אם רוצים לאפשר עבודה משותפת על אותו מאגר, נוסיף הרשאות גישה לשותפים
 
-setting נבחר בלשונית  
+setting נבחר בלשונית 
 
 ![setting](https://github.com/yair-go/gitExampleVS/blob/master/pic/5%20Collaboration/setting.PNG)
 
 collaborators בתפריט נבחר
 
+
 ![Collaborarors1](https://github.com/yair-go/gitExampleVS/blob/master/pic/5%20Collaboration/Collaborarors1.PNG)
 
+
 Add collaborator נחפש את שם המשתמש של השותף ונלחץ
+
 
 ![Collaborarors2](https://github.com/yair-go/gitExampleVS/blob/master/pic/5%20Collaboration/Collaborarors2.PNG)
 
 
 עכשיו השותף יכול לשכפל את המאגר לעותק מקומי אצלו ולסנכרן את השינויים עם המאגר המרוחק
 
+
 ## 6 שכפול מאגר
+
 
 ![Clone github](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/clone%20on%20github.png)
 
+
 ![connect](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/connection.png)
+
 
 ![colne VS](https://github.com/yair-go/gitExampleVS/blob/master/pic/6%20Clone/clone%20on%20VS.png)
 
 ## סיכום
 
+
 [Issues](https://github.com/yair-go/gitExampleVS/issues) לתגובות ניתן להשאיר בחלק  ה
+
 
 > Written with [StackEdit](https://stackedit.io/).
